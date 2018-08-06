@@ -1,8 +1,8 @@
 # traincasestudy
-ackage case1;
+package traincase1;
 import java.util.*;
 
-public class Case1 {
+public class TrainCase1 {
 
     
     public static void main(String[] args) {
